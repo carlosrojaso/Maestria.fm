@@ -1,10 +1,10 @@
 ---
-number: 0
-title: Preview
+number: 1
+title: Ionic vs React Native vs Nativescript
 date: 1498579200000
-url: https://traffic.libsyn.com/syntax/Syntax000.mp3?dest-id=532671
+url: http://awscdn.podcasts.com/Ng-podcast-1-German-Hernandez-Colombia-Ionic-vs-React-Native-vs-Nativescript-bae3.mp3
 ---
 
 ## Show Notes
 
-It's Coming! Subscribe now so we can launch this puppy with a bang!
+En esta ocasión nuestro invitado va a ser  German Hernandez @muygrafico y vamos a comparar tres tecnologias Ionic, React Native, y NativeScript.

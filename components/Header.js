@@ -12,68 +12,43 @@ const Header = () => (
     </div>
     <div className="header__right">
       <div className="title">
-        <h2 className="tagline">A Tasty Treats Podcast for Web Developers.</h2>
-        <a
-          target="_blank"
-          href="https://docs.google.com/forms/d/e/1FAIpQLSfQlAo1wXHiJMySdU-h8QMtfoz92aMS9eycEHXB6eRCLh8KHA/viewform"
-          className="title__potluck-btn"
-          rel="noopener noreferrer"
-        >
-          Ask a Potluck Question →
-        </a>
+        <h2 className="tagline">Un pequeño pedazo de Internet para escuchar sobre Javascript.</h2>
       </div>
       <div className="people">
         <div className="person">
           <img src="/static/wes400x400.jpg" alt="Wes Bos" className="avatar" />
-          <h3>Wes Bos</h3>
+          <h3>Carlos Rojas</h3>
           <a
             target="_blank"
-            href="https://twitter.com/wesbos"
+            href="https://twitter.com/carlosrojas_o"
             className="person__social person__social--twitter"
             rel="noopener noreferrer"
           >
-            @wesbos
+            @carlosrojas_o
           </a>
           <p>
-            Full Stack JavaScript Developer. Creator of really good{' '}
-            <a
-              target="_blank"
-              href="https://wesbos.com/courses"
-              rel="noopener noreferrer"
-            >
-              web development courses
-            </a>
-            . BBQ enthusiast.
+            Desarrollador Frontend. Hearthstone Gamer.
           </p>
         </div>
 
         <div className="person">
           <img
-            src="https://avatars2.githubusercontent.com/u/669383?s=460&v=4"
+            src="/static/nico.jpg"
             alt="Scott Tolinski"
             className="avatar"
             rel="noopener noreferrer"
           />
-          <h3>Scott Tolinski</h3>
+          <h3>Nicolas Molina</h3>
           <a
             target="_blank"
-            href="https://twitter.com/stolinski"
+            href="https://twitter.com/nicobytes"
             className="person__social person__social--twitter"
             rel="noopener noreferrer"
           >
-            @stolinski
+            @nicobytes
           </a>
           <p>
-            Web Developer, Creator of{' '}
-            <a href="https://leveluptutorials.com/">Level Up Tuts</a>, Bboy,
-            Robotops Crew and{' '}
-            <a
-              target="_blank"
-              href="https://www.youtube.com/c/leveluptuts"
-              rel="noopener noreferrer"
-            >
-              Youtuber
-            </a>
+            Desarrollador Frontend.
           </p>
         </div>
       </div>
