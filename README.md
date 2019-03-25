@@ -1,10 +1,6 @@
-# Syntax.
+# MaestriaJS.
 
-A tasty treats podcast for Web Developers.
-
-This is the site that runs [Syntax.fm](https://syntax.fm) — go there to listen to it!
-
-This site is built on React and Next.js
+A podcast for Web Developers.
 
 ## Requirements
 - Node 8.1.2 or higher

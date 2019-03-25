@@ -1,0 +1,9 @@
+{
+    "version": 2,   
+    "name": "maestriajs-app",
+    "builds": [{ "src": "next.config.js", "use": "@now/next" }],
+    "alias": [
+      "maestria",
+      "maestriajs"
+    ]
+}
