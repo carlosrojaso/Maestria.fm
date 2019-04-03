@@ -1,8 +1,8 @@
 ---
-number: 1
-title: Ionic vs React Native vs Nativescript
+number: 20
+title: Ionic 4
 date: 1498579200000
-url: http://awscdn.podcasts.com/Ng-podcast-1-German-Hernandez-Colombia-Ionic-vs-React-Native-vs-Nativescript-bae3.mp3
+url: http://awscdn.podcasts.com/Ng-Hangouts-20-Ionic-4-65e0.mp3
 ---
 
 ## Show Notes

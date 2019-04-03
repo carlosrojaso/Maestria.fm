@@ -1,8 +1,8 @@
 ---
-number: 1
-title: Ionic vs React Native vs Nativescript
+number: 25
+title: App en Angular internacionalizadas
 date: 1498579200000
-url: http://awscdn.podcasts.com/Ng-podcast-1-German-Hernandez-Colombia-Ionic-vs-React-Native-vs-Nativescript-bae3.mp3
+url: http://awscdn.podcasts.com/Hangout-25-Lizzy-Mendivil-Bolivia-App-en-Angular-internacionalizadas-0ca4.mp3
 ---
 
 ## Show Notes

@@ -1,8 +1,8 @@
 ---
-number: 1
-title: Ionic vs React Native vs Nativescript
+number: 23
+title: Ngxs vs Ngrx vs Akita
 date: 1498579200000
-url: http://awscdn.podcasts.com/Ng-podcast-1-German-Hernandez-Colombia-Ionic-vs-React-Native-vs-Nativescript-bae3.mp3
+url: http://awscdn.podcasts.com/Ng-Hangouts-23-Enzo-Notario-Argentina-Humberto-Llaurado-Cuba-Ngxs-vs-Ngrx-vs-Akita-a71c.mp3
 ---
 
 ## Show Notes

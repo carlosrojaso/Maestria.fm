@@ -1,8 +1,8 @@
 ---
-number: 1
-title: Ionic vs React Native vs Nativescript
+number: 26
+title: Hablemos de Web Components
 date: 1498579200000
-url: http://awscdn.podcasts.com/Ng-podcast-1-German-Hernandez-Colombia-Ionic-vs-React-Native-vs-Nativescript-bae3.mp3
+url: http://awscdn.podcasts.com/Hangout-26-Sebastian-Gomez-Colombia-Hablemos-de-Web-Components-bb31.mp3
 ---
 
 ## Show Notes

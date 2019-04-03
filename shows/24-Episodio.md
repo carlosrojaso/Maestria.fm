@@ -1,8 +1,8 @@
 ---
-number: 1
-title: Ionic vs React Native vs Nativescript
+number: 24
+title: Optimizando rutas con Google Maps y Ionic
 date: 1498579200000
-url: http://awscdn.podcasts.com/Ng-podcast-1-German-Hernandez-Colombia-Ionic-vs-React-Native-vs-Nativescript-bae3.mp3
+url: http://awscdn.podcasts.com/Ng-Hangouts-24-Zulema-Vicente-Bolivia-Optimizando-rutas-con-Google-Maps-y-Ionic-b4aa.mp3
 ---
 
 ## Show Notes
