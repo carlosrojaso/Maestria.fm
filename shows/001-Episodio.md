@@ -1,5 +1,5 @@
 ---
-number: 2
+number: 1
 title: Ionic y NativeScript
 date: 1493834819000
 url: http://awscdn.podcasts.com/Ng-podcast-2-Jorge-Cano-Argentina-Ionic-y-NativeScript-41c9.mp3

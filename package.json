@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "node server.js",
     "build": "next build",
-    "html": "next export",
+    "html": "next build && next export",
     "start": "NODE_ENV=production node server.js",
     "deploy": "now",
     "alias": "now alias"
