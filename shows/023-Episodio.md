@@ -1,5 +1,5 @@
 ---
-number: 24
+number: 23
 title: Optimizando rutas con Google Maps y Ionic
 date: 1541546405000
 url: http://awscdn.podcasts.com/Ng-Hangouts-24-Zulema-Vicente-Bolivia-Optimizando-rutas-con-Google-Maps-y-Ionic-b4aa.mp3

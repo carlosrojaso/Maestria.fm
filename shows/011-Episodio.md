@@ -1,5 +1,5 @@
 ---
-number: 12
+number: 11
 title: Angular Elements
 date: 1519514405000
 url: http://awscdn.podcasts.com/Ng-Hangouts-12-Web-Components-d318.mp3

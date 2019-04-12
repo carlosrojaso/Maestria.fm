@@ -1,5 +1,5 @@
 ---
-number: 16
+number: 15
 title: Usando Graphql y Apollo
 date: 1525562405000
 url: http://awscdn.podcasts.com/Ng-Hangouts-16-Usando-Graphql-y-Apollo-5b3c.mp3

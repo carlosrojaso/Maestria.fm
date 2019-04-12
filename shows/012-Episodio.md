@@ -1,6 +1,6 @@
 ---
-number: 13
-title: AngularFire2
+number: 12
+title: AngularFire 2
 date: 1520724005000
 url: http://awscdn.podcasts.com/Ng-podcast-1-German-Hernandez-Colombia-Ionic-vs-React-Native-vs-Nativescript-bae3.mp3
 ---

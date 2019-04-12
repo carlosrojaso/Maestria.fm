@@ -2,19 +2,13 @@ import Link from 'next/link';
 
 const Footer = () => (
   <footer className="bottom">
-    <p>&copy; Wes Bos && Scott Tolinski {new Date().getFullYear()}</p>
-    <p>
-      Website made with React, Next.js and stylus. Hosted on Now. The source is
-      on{' '}
-      <a
+    <p>Adapted from Wes Bos && Scott Tolinski <a
         href="https://github.com/wesbos/syntax"
         target="_blank"
         rel="noopener noreferrer"
       >
-        GitHub
-      </a>
-      .
-    </p>
+        Open Source Project
+      </a>.</p>
   </footer>
 );
 

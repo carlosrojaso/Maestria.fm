@@ -1,5 +1,5 @@
 ---
-number: 15
+number: 14
 title: Ngrx o Ngxs
 date: 1523748005000
 url: http://awscdn.podcasts.com/Ng-Hangouts-15-Ngrx-o-Ngxs-0f13.mp3
