@@ -27,7 +27,7 @@ const Header = () => (
             @carlosrojas_o
           </a>
           <p>
-            Desarrollador Frontend. Hearthstone Gamer.
+           JavaScript Developer + @apress Author ⌨️ 
           </p>
         </div>
 
@@ -48,7 +48,7 @@ const Header = () => (
             @nicobytes
           </a>
           <p>
-            Desarrollador Frontend.
+            Google Developer Expert in #Angular and #WebTechnologies.
           </p>
         </div>
       </div>

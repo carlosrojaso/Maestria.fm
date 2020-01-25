@@ -9,7 +9,7 @@
     "build": "next build",
     "html": "next build && next export",
     "start": "NODE_ENV=production node server.js",
-    "deploy": "now",
+    "deploy": "firebase deploy",
     "alias": "now alias"
   },
   "dependencies": {
