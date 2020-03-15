@@ -2,7 +2,7 @@
 number: 31
 title: Serverless para Devs en JavaScript
 date: 1581177600
-url: http://awscdn.podcasts.com/Hangout-32-Serverless-para-Devs-en-JavaScript-3d42.mp3
+url: http://awscdn.podcasts.com/Hangout-33-Pruebas-Unitarias-en-JavaScript-2438.mp3
 ---
 
 ## Show Notes
